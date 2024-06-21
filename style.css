@@ -1,23 +1,11 @@
-{
-    margin: 0;
-    padding: 0;
-}
-
-.cabecalho {
-    background-color: #424E61;
-    color: white;
-    display: flex; 
-    justify-content: space-around;
-    align-items: center;
-}
-
-.cabecalho-imagem{
-    width: 20%;
-}
-:root {
+{:root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
 }
 
+body {
+
+
+}
